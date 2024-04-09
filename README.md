@@ -1,2 +1,2 @@
 # ETL
-Beginner ETL projects, learning to extract, transform, and load data into databases. Used basic tools and tutorials to grasp data integration fundamentals.
+Initiated beginner-level ETL (Extract, Transform, Load) projects, focusing on the basics of moving data from various sources into a single, accessible location. Starting with simple data extraction, I learned to transform information into a more usable format and finally, to load it into a database or spreadsheet for easy access. Through hands-on practice with basic tools and guided tutorials, I began to understand the core principles of data integration, laying the foundation for more advanced projects in the future.
